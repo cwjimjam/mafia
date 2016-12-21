@@ -1,0 +1,4 @@
+Bodyguard
+town
+
+The bodyguard chooses one player to protect every night. If that player has been targeted to be killed, the bodyguard will sacrifice themselves instead.

@@ -1,0 +1,4 @@
+Mason
+town
+mason
+The mason acts like a regular town villager. However, all of the masons know the identity of each other from the beginning of the game.

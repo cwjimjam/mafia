@@ -1,0 +1,4 @@
+Doctor
+town
+
+The doctor choose to save one person each night. If that person is targeted by the mafia, or other killing role, they are protected. No explicit indication is given that the doctor was successful. The doctor may not save themselves.

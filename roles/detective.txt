@@ -1,0 +1,4 @@
+Detective
+town
+
+The detective has the power to investigate one person every night. They receive a silent indication from the moderator, indicating if the target is mafia-aligned or not.

@@ -1,0 +1,4 @@
+Town Tracker
+town
+
+The town-aligned tracker chooses one person to track each night, and the moderator indicates whether the player targeted someone else, and, if so, who that player was.

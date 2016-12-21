@@ -1,0 +1,4 @@
+Henchman
+mafia
+mafia
+The henchman is an ordinary mafia. Unless specialised mafia exist, all henchmen take part in killing their target.

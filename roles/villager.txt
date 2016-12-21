@@ -1,0 +1,4 @@
+Villager
+town
+
+The villager has no special powers. They get a single vote during the day, but will sleep through the night.

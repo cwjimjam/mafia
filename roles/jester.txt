@@ -1,0 +1,4 @@
+Jester
+unique
+
+The jester wins only if they are lynched.

@@ -1,0 +1,4 @@
+Vigilante
+town
+
+The vigilante can choose to kill someone each night. However, if they kill a town-aligned player, they will also die that night.

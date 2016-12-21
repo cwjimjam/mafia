@@ -1,0 +1,4 @@
+Ninja
+mafia
+mafia
+The ninja will perform all killings while they are alive. Any player investigating the ninja or their victim will not know of the ninja's actions.
